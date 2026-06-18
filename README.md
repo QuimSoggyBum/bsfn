@@ -24,7 +24,7 @@ As you can see above we suppor 5 different colours and we also display your 6 le
 
 
 to view this menu to change your style use **/bsfn** or you can set the keybind under the controls 
-![Menu Key Bind](https://cdn.modrinth.com/data/cached_images/e4d39ba1c9ceeb63e5dc241d173ae899198c4c82.png)
+![Menu Key Bind](https://raw.githubusercontent.com/QuimSoggyBum/bsfn/refs/heads/main/img/control.png)
 
 <hr>
 
