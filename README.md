@@ -1,4 +1,4 @@
-<img width="1181" height="49" alt="image" src="https://github.com/user-attachments/assets/efe4eb13-78b9-490c-8c79-ebf8f9eb414d" />
+<img width="1181" height="49" alt="image" src="https://raw.githubusercontent.com/QuimSoggyBum/bsfn/refs/heads/main/img/609797565-efe4eb13-78b9-490c-8c79-ebf8f9eb414d.png" />
 
 
 ### Better Stats For [NappyCraft](https://modrinth.com/mod/nappycraft)
