@@ -8,7 +8,7 @@ No more needing to type **/iswet** in nappycraft when you use this add-on
 
 <p align="center">
 
-<img width="548" height="276" alt="image" src="https://github.com/user-attachments/assets/59dcb5d3-ea75-460b-a6db-39c666714347" />
+<img width="548" height="276" alt="image" src="https://raw.githubusercontent.com/QuimSoggyBum/bsfn/refs/heads/main/img/9421b2faba1c019ef5cec629613e0c09002f5654.png" />
 
 
 </p>
